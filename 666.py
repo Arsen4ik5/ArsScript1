@@ -15,7 +15,7 @@ def request(update: Update, context: CallbackContext):
     update.message.reply_text("5")
 
 # Set up the bot
-updater = Updater("YOUR_BOT_TOKEN")
+updater = Updater("7316250792:AAFRWdHy9k_Lh0luoKodXFQDhTpOLEpMMRU")
 dispatcher = updater.dispatcher
 
 # Add command handlers
